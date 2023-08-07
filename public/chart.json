@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "assignment-1",
+        "value": "57"
+    },
+    {
+        "id": 2,
+        "name": "assignment-2",
+        "value": "60"
+    },
+    {
+        "id": 3,
+        "name": "assignment-3",
+        "value": "58"
+    },
+    {
+        "id": 4,
+        "name": "assignment-4",
+        "value": "54"
+    },
+    {
+        "id": 5,
+        "name": "assignment-5",
+        "value": "60"
+    },
+    {
+        "id": 6,
+        "name": "assignment-6",
+        "value": "60"
+    },
+    {
+        "id": 7,
+        "name": "assignment-7",
+        "value": 60
+    },
+    {
+        "id": 8,
+        "name": "assignment-8",
+        "value": 60
+    }
+]

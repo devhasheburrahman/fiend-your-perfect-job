@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Account & Finance",
+        "available_job": "300 jobs Available",
+        "icon": "https://www.clipartmax.com/png/middle/318-3183849_vector-free-download-accounts-icon-business-finance-accounting-and-finance-icon.png"
+    },
+    {
+        "id": 2,
+        "name": "Creative Design",
+        "available_job": "100+ jobs Available",
+        "icon": "https://static.thenounproject.com/png/1246511-200.png"
+    },
+    {
+        "id": 3,
+        "name": "Marketing & Sales",
+        "available_job": "150 jobs Available",
+        "icon": "https://www.clipartmax.com/png/full/118-1186822_office-management-png-transparent-images-sales-and-marketing-icon-png.png"
+    },
+    {
+        "id": 4,
+        "name": "Engineering Job",
+        "available_job": "224+ jobs Available",
+        "icon": "https://cdn-icons-png.flaticon.com/512/2704/2704928.png"
+    }
+]
